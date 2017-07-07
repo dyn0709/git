@@ -1,0 +1,11 @@
+#!/bin/bash
+**************测试git环境***************
+
+git="Please your  name"
+
+if [ git lt 0 ]
+   then
+      "Please  your name"
+else
+   "error"
+fi
